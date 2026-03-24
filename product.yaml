@@ -1,0 +1,15 @@
+slug: codex-system
+name: Codex System
+profile: toolkit
+purpose: Portable Codex toolkit for maintaining installed Codex skills and related system-level operational workflows.
+scope: Multi-skill toolkit repository for installable Codex skills that help manage lifecycle operations for globally installed skills.
+
+distribution:
+  model: skill-installer
+  root_skill_folders:
+    - skill-update
+    - terminal-link
+
+host_integration:
+  temporary_root: tmp/codex-system
+  install_target: $CODEX_HOME/skills
