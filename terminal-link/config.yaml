@@ -1,0 +1,6 @@
+link:
+  prefer_osc8: true
+  osc8_supported: true
+  include_open_fallback: false
+  default_file_label: "[Open file]"
+  default_image_label: "[Open image]"

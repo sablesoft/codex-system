@@ -12,7 +12,7 @@ It currently ships two skills:
 ## Skills
 
 - `skill-update` updates previously installed Codex skills through the documented reinstall workflow and interprets per-skill `VERSION` files.
-- `terminal-link` emits clickable terminal links for local files in console output.
+- `terminal-link` emits clickable terminal links for local files in console output and ships with its own scripts and `config.yaml`.
 
 ## Installation
 
