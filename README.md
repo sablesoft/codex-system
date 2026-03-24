@@ -1,6 +1,6 @@
 # Codex System
 
-`codex-system` is a toolkit product for `product-engine` and a repository of installable Codex skills for system-level maintenance workflows.
+`codex-system` is a toolkit repository of installable Codex skills for system-level maintenance workflows.
 
 ## Purpose
 
@@ -21,9 +21,7 @@ After installation, restart Codex so the newly installed skills are discovered.
 
 ## Host Expectations
 
-- write temporary artifacts under `tmp/codex-system/`
 - keep each installed skill self-contained
-- do not rely on project-local `.agents/skills` discovery
 
 ## Layout
 
